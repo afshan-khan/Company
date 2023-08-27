@@ -1,0 +1,19 @@
+.banner {
+    height: 80vh;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    background-repeat: no-repeat;
+    background-size: cover; /* This property makes the image cover the entire container */
+    background-position: center; 
+    background-image: url('https://cdn.dribbble.com/userupload/6543366/file/original-66e95602d1349bd33a81d25bce49b537.png');
+  }
+  
+.banner-text {
+    font-size: 50px;
+    font-weight: bold;
+    /* color: rgb(19, 22, 187); */
+    margin-top: 10px;
+    color:white;
+  }
+  
